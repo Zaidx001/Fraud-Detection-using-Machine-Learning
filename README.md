@@ -76,4 +76,7 @@ The goal is to:
 2. Place dataset file (`fraud.csv`) in the project folder.  
 3. Open the Jupyter Notebook:  
    ```bash
-   jupyter notebook Fraud_Detection_Submission.ipynb
+   jupyter notebook Accredian Fraud Detection.ipynb
+
+## dataset 
+link- https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0
